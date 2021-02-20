@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "pdfcrowd/pdfcrowd": "^4.12"
+    }
+}

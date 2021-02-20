@@ -1,0 +1,15 @@
+.col-lg-12 .text-center .row-info {
+    float: left;
+}
+
+.col-lg-12 .text-center .info {
+    list-style: none;
+}
+
+.login_wrapper {
+    margin: 8% auto 0;
+}
+
+.login_content form {
+    margin: 10px 0;
+}
